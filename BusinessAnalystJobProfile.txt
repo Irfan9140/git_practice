@@ -1,0 +1,38 @@
+
+
+Apply
+Apply to Business Analyst on company website
+Job description
+Amazon India is seeking highly analytical and detail oriented candidate to join the Marketplace Business Operations (MBO) team in Hyderabad. As part of the MBO team, you will work with product, technology and operations teams to drive complex data and trend analyses to root cause issues and propose ways to improve marketplace platform and tools, thereby contributing to improved Seller and Buyer experience on Amazon. You will also be responsible for benchmarking and measuring the performance of various business operations projects, building and publishing detailed scorecards and reports, identifying and driving new opportunities based on customer and business data.
+An ideal candidate will be a self-starter who is passionate about discovering and solving complicated problems, learning complex systems, working with numbers, and organizing and communicating data and reports. You will also be passionate about helping the team make great decisions based on data, possess exceptional skills in project management and data reporting, and be interested in e-commerce industry. You will be detail-oriented and organized, capable of handling multiple projects at once, and capable of dealing with ambiguity and rapidly-changing priorities. Candidates must be successful both as individual contributors and in a team environment, and must be obsessed with serving the customer. Our environment is fast-paced and requires someone who is flexible, detail-oriented, and comfortable working in a deadline-driven work environment.
+
+
+Basic Qualifications
+
+Functional –
+4 to 6 years of relevant analytics and business problem solving skills / professional experience
+Strong analytical skills – has ability to ask right questions, analyze data, draws conclusion by making appropriate assumptions
+Organization skills – demonstrated ability to work independently to make complex investigations
+Communication skills – ability to communicate (written and spoken) in English
+Ability to communicate complex technical problems in simple plain stories
+Ability to present information professionally & concisely with supporting data
+Work effectively & independently in a fast-paced environment with tight deadlines
+Ability to engage with cross-functional teams and gather project/program requirements
+Outstanding attention to detail; Exceptional problem solving skills
+Experience in modeling complex business scenarios
+Technical -
+Proficiency in SQL and Advanced Excel (Array and Statistical formulas)
+Experience in building ML models using Python or R. Prior experience of large scale text mining
+Knowledge of analytics & statistical tools such as SAS, PowerBI, Tableau & ETL DW concepts
+Bachelor’s degree in Engineering, Mathematics, Statistics or related field
+Roles And Responsibilities
+Work closely with business teams and programs to identify, define and document analytical reporting needs – baseline problem statement through deep dive analytics
+Act as a liaison between program managers, technical analysts and functional experts to analyze and design key performance indicators (KPIs) to measure process performance
+Consolidate information into cohesive and insightful analytical reports for use in decision-making. Generate high quality and insightful recommendations, thereby drive value and program / process efficiency
+Mine DW platforms to fetch raw data and analyze it to prepare insightful statistical reports
+Automate the report generation process though use of tools and programing techniques: such as SQL, Python, DW concepts & advanced Excel
+Deploy visualization tools and techniques such as Tableau, DataZen, PowerBI & Infographics to build comprehensive dashboards
+Track and documents changes in functional and business specifications so as to accurately identify and measure KPIs
+Write detailed procedures for manual and automated reporting processes for use in training
+Identifies opportunities for improving business processes through detailed and thorough root cause analysis
+Participate in studies of new and existing programs and special projects to determine feasibility - thereby resolve problems including organizational, analytical & procedural
